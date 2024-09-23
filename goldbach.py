@@ -24,6 +24,7 @@ def is_goldbach(number):
             return True
     return False
 
+
 def main():
     num = 4
     while True:
